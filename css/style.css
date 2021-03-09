@@ -1,0 +1,22 @@
+body {
+  background-color: #f0e4d7;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 2.5%;
+  text-align: center;
+  border-color: #f5c0c0;
+}
+
+
+h1, h3 {
+  color: #ff7171;
+  font-family: sans-serif;
+}
+
+p, li, th, td, a, form {
+  font-family: sans-serif;
+}
